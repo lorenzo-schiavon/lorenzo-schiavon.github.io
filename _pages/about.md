@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Statistical Sciences at the University of Padova, supervised by [Antonio Canale](https://tonycanale.github.io/).<br/>
-My main research interest centres on Bayesian statistics, Bayesian nonparametrics and computational statistics. 
-
+I am a PhD student in Statistical Sciences at the University of Padova.
