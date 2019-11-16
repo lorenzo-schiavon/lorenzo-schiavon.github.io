@@ -13,7 +13,8 @@ Education
 ------
 * PhD student in Statistical Sciences; _University of Padova_, 2018-present.
 * M.S. in Statistical Sciences; _University of Padova_, 2015-2017.
-  * Thesis: 
+  * <span style="font-size:4em;">Thesis: L’area sotto la curva ROC specifica per caratteristiche 
+  (Covariate-specific area under the ROC curve)</span>
 * B.S. in Statistics, Economics and Finance; _University of Padova_, 2012-2015.
   * Thesis
 
@@ -27,5 +28,5 @@ Teaching experience
 
 Awards
 ------
-* First prize at Stats Under the Stars3; Florence, 2017.
+* First prize at Stats Under the Stars<sup>3</sup>; Florence, 2017.
 
