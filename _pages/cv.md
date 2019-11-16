@@ -17,11 +17,11 @@ Education
 
 Work experience
 ------
-* 2018: Statistician at Business Integration Partners S.p.a (Milan).
+* 2018: Statistician at Business Integration Partners S.p.a. (Milan).
   
 Teaching experience
 ------
-* 2016-2017: Academic Tutor at University of Padova on Mathematical Analysis 1 and Statistics (Advanced).
+* 2016-2017: Academic Tutor at University of Padova.
 
 Awards
 ------
