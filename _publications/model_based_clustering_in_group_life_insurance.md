@@ -6,5 +6,5 @@ excerpt: ''
 date: 2019-01-01
 venue: 'Book of Short Papers SIS 2019'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'D’Angelo, L. (2019) Model based clustering in group life insurance via Bayesian nonparametric mixtures, in <i>Book of Short Papers SIS 2019</i> (Editors: Arbia, G., Peluso, S., Pini, A. and Rivellini, G.), ISBN: 9788891915108'
+citation: ' D’Angelo, L. (2019) Model based clustering in group life insurance via Bayesian nonparametric mixtures, in <i>Book of Short Papers SIS 2019</i> (Editors: Arbia, G., Peluso, S., Pini, A. and Rivellini, G.), ISBN: 9788891915108'
 ---
