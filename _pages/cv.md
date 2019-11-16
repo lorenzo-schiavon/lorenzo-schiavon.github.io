@@ -13,7 +13,7 @@ Education
 ------
 * PhD student in Statistical Sciences; _University of Padova_, 2018-present.
 * M.S. in Statistical Sciences; _University of Padova_, 2015-2017.<br/><sup>_Thesis title_: Covariate-specific area under the ROC curve</sup>
-* B.S. in Statistics, Economics and Finance; _University of Padova_, 2012-2015.  <sup>_Thesis title_: Bayesian nonparametric models: applications in insurance</sup>
+* B.S. in Statistics, Economics and Finance; _University of Padova_, 2012-2015. <br/><sub>_Thesis title_: Bayesian nonparametric models: applications in insurance</sub>
 
 Work experience
 ------
