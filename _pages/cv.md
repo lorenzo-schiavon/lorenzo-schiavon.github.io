@@ -29,6 +29,9 @@ Awards
 
 <br/>
 <br/>
+<br/>
 
+---
+<br/>
 [Complete CV](https://github.com/laura-dangelo/laura-dangelo.github.io/blob/master/files/CV_dangelo_laura.pdf)
 
