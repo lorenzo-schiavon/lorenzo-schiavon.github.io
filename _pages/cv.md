@@ -16,7 +16,7 @@ Education
   * <sup>_Thesis title_: Covariate-specific area under the ROC curve</sup>
 * B.S. in Statistics, Economics and Finance; _University of Padova_, 2012-2015. 
 
-⋅⋅* <sup> _Thesis title_: Bayesian nonparametric models: applications in insurance</sup>
+  * <sup> _Thesis title_: Bayesian nonparametric models: applications in insurance</sup>
 
 Work experience
 ------
