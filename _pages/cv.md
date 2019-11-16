@@ -26,3 +26,4 @@ Teaching experience
 Awards
 ------
 * First prize at [Stats Under the Stars<sup>3</sup>](http://local.disia.unifi.it/sus3/); Florence, 2017.
+<a class="link-gray-dark"  href="http://local.disia.unifi.it/sus3/">link-gray-dark</a>
