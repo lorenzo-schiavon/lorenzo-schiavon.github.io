@@ -3,7 +3,7 @@ title: "Model based clustering in group life insurance via Bayesian nonparametri
 collection: publications
 permalink: /publication/Model_based_clustering_in_group_life_insurance
 excerpt: 'Model based clustering in group life insurance via Bayesian nonparametric mixtures'
-date: 2019
+date: 2019-01-01
 venue: 'Book of Short Papers SIS 2019'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: ''
