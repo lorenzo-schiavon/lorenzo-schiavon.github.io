@@ -13,9 +13,6 @@ Education
 ------
 * PhD student in Statistical Sciences; _University of Padova_, 2018-present.
 * M.S. in Statistical Sciences; _University of Padova_, 2015-2017.
-
-** Thesis: ss
-
 * B.S. in Statistics, Economics and Finance; _University of Padova_, 2012-2015.
 
 Work experience
