@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Statistical Sciences at the University of Padova, supervised by [Antonio Canale](https://tonycanale.github.io/).<br/>
+I am a PhD student in Statistical Sciences at the University of Padova.
+</br>
 
 <table border="0">
  <tr>
