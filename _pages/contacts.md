@@ -12,7 +12,7 @@ Via Cesare Battisti 241, 35121 Padova<br/>
 
 
 
-Email: <br/>
+**Email:** <br/>
 laura.dangelo.1@phd.unipd.it<br/>
 dangelo@stat.unipd.it
 
