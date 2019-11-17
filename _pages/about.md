@@ -20,3 +20,19 @@ I am a PhD student in Statistical Sciences at the University of Padova.
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
+
+
+<table class="tab">
+  <tr>
+    <td class="first">first row</td>
+  </tr>
+  <tr>
+    <td class="second">second row</td>
+  </tr>
+</table>​​​
+
+<style>
+.tab {border-collapse:collapse;}
+.tab .first {border-bottom:1px solid #EEE;}
+.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
+</style>
