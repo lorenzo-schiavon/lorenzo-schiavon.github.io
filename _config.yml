@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"laura-dangelo"
+  github           : "laura-dangelo"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  linkedin         : "https://www.linkedin.com/in/laura-dangelo/"
 
 
 # Reading Files
