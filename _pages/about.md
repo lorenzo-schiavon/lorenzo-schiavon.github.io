@@ -16,8 +16,8 @@ I am a PhD student in Statistical Sciences at the University of Padova.
     <td><b style="font-size:16px">Education</b></td>
  </tr>
  <tr>
-    <td><b style="font-size:18px">Lorem ipsum ...</b></td>
-    <td><b style="font-size:20px">Lorem ipsum ...</b></td>
+    <td><font style="font-size:18px">Lorem ipsum </font></td>
+    <td><font style="font-size:20px">Lorem ipsum </font></td>
  </tr>
   <tr>
     <td>Lorem ipsum2 ...</td>
