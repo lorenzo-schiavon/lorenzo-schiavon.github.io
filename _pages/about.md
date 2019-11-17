@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in Statistical Sciences at the University of Padova.
 
-<table border="0">
+<table border="none">
  <tr>
     <td><b style="font-size:30px">Title</b></td>
     <td><b style="font-size:30px">Title 2</b></td>
@@ -21,18 +21,3 @@ I am a PhD student in Statistical Sciences at the University of Padova.
  </tr>
 </table>
 
-
-<table class="tab">
-  <tr>
-    <td class="first">first row</td>
-  </tr>
-  <tr>
-    <td class="second">second row</td>
-  </tr>
-</table>​​​
-
-<style>
-.tab {border-collapse:collapse;}
-.tab .first {border-bottom:1px solid #EEE;}
-.tab .second {border-top:1px solid #CCC;box-shadow: inset 0 1px 0 #CCC;}​
-</style>
