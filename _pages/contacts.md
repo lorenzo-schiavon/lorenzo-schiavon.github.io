@@ -17,4 +17,6 @@ laura.dangelo.1@phd.unipd.it<br/>
 dangelo@stat.unipd.it
 
 
-[![alt text](https://www.gravatar.com/avatar/… "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s) [![alt text](https://www.gravatar.com/avatar/… "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s) [![alt text](https://www.gravatar.com/avatar/… "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s)
+[![alt text](http://www.unife.it/studenti/internazionale/loghi-social/twitter-logo.png/image_preview)](https://twitter.com/laura_d_angelo)
+[![alt text](https://cdn4.iconfinder.com/data/icons/social-media-2097/94/linkedin-128.png)](https://www.linkedin.com/in/laura-dangelo/)
+[![alt text](https://www.gravatar.com/avatar/… "Let's check Jason S' profile page")](https://meta.stackoverflow.com/users/44330/jason-s)
