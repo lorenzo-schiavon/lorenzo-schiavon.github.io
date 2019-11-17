@@ -17,7 +17,7 @@ Education
 
 Work experience
 ------
-* 2018: Statistician at Business Integration Partners S.p.a. (Milan).
+* 2018: Data analyst at Business Integration Partners S.p.a. (Milan). 
   
 Teaching experience
 ------
