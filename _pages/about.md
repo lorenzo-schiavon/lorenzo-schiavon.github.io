@@ -17,7 +17,7 @@ I am a PhD student in Statistical Sciences at the University of Padova.
  </tr>
  <tr>
     <td><font style="font-size:16px">
-[<img src="./images/49944.png" width="35">](https://twitter.com/laura_d_angelo) Lorem ipsum </font></td>
+[<img src="../images/49944.png" width="35">](https://twitter.com/laura_d_angelo) Lorem ipsum </font></td>
     <td><font style="font-size:16px">Lorem ipsum </font></td>
  </tr>
   <tr>
