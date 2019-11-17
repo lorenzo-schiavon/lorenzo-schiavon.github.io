@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 Department of Statistical Sciences <br/>
 University of Padova<br/>
-Via Cesare Battisti 241, 35121 Padova<br/>
+Via Cesare Battisti 241, 35121 Padova, Italy<br/>
 
 
 
