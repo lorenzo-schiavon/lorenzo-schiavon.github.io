@@ -18,7 +18,7 @@ I am a PhD student in Statistical Sciences at the University of Padova.
  </tr>
    <tr>
  <td><font style="font-size:16px"><img src="../images/index.png" width="20">  Bayesian statistics </font></td>
- <td><font style="font-size:16px"> <img src="../images/49944.png" width="24">  PhD in Statistical Sciences</font></td>
+ <td><font style="font-size:16px"> <img src="../images/49944.png" width="24">  PhD in Statistical Sciences (ongoing)</font></td>
  </tr>
  <tr>
     <td><font style="font-size:16px"><img src="../images/index.png" width="20">  Bayesian nonparametrics </font></td>
