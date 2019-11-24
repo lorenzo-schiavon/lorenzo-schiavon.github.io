@@ -6,21 +6,13 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-a.hover {
-    color: red;
-    text-decoration: none;
-}
-
-a.hover:hover {
-    text-decoration: underline;
-}
 
 {% include base_path %}
 
 Education
 ------
 * PhD student in Statistical Sciences; _University of Padova_, 2018-present.
-* M.S. in Statistical Sciences; _University of Padova_, 2015-2017.<br/><sub>_Thesis title_: Thesis title</i>: Bayesian nonparametric models: applications in insurance</sub>
+* M.S. in Statistical Sciences; _University of Padova_, 2015-2017.<br/><sub>_Thesis title_: Bayesian nonparametric models: applications in insurance</sub>
 * B.S. in Statistics, Economics and Finance; _University of Padova_, 2012-2015. <br/><sub>_Thesis title_: Covariate-specific area under the ROC curve</sub>
 
 Work experience
