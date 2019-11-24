@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-
+{% include base_path %}
 
 Education
 ------
@@ -32,5 +32,8 @@ Awards
 
 
 ---
-
-<a href="https://laura-dangelo.github.io/files/CV_dangelo_laura.pdf" style="color:red">Complete CV</a>
+<style type="text/css">
+    a {text-decoration: none;}
+    a:hover {text-decoration: underline;}
+</style>
+<a href="https://laura-dangelo.github.io/files/CV_dangelo_laura.pdf" style="color:rgb(73,78,82)">Complete CV</a>
