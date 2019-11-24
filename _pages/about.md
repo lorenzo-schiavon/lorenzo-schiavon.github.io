@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD student in Statistical Sciences at the University of Padova.
-<a href="../html-link.htm" style="color:rgb(73,78,82)">Main page</a>
+
 
 
 <table border="0">
