@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Statistical Sciences at the University of Padova. [prova](https://www.google.com/).
+I am a PhD student in Statistical Sciences at the University of Padova. 
 
 
 
