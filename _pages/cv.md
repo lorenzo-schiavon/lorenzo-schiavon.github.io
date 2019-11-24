@@ -33,4 +33,4 @@ Awards
 
 ---
 
-<a href="https://laura-dangelo.github.io/files/CV_dangelo_laura.pdf" style="color:rgb(73,78,82)"> <span class="underline-on-hover">Complete CV</span></a>
+<a href="https://laura-dangelo.github.io/files/CV_dangelo_laura.pdf" style="color:red">Complete CV</a>
