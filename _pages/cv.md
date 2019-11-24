@@ -6,6 +6,14 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+a.hover {
+    color: red;
+    text-decoration: none;
+}
+
+a.hover:hover {
+    text-decoration: underline;
+}
 
 {% include base_path %}
 
@@ -33,4 +41,4 @@ Awards
 
 ---
 
-<a href="https://laura-dangelo.github.io/files/CV_dangelo_laura.pdf" style="color:rgb(73,78,82)" onmouseover="style='text-decoration:underline'" onmouseout="style='text-decoration:none'"> Complete CV</a>
+<a href="https://laura-dangelo.github.io/files/CV_dangelo_laura.pdf" style="color:rgb(73,78,82)"> Complete CV</a>
