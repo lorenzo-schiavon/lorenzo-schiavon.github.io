@@ -7,6 +7,7 @@ author_profile: true
 <style type="text/css">
     a {text-decoration: none;}
     a:hover {text-decoration: underline;}
+    p.small {line-height: 0.7;}
 </style>
 
 <p class="small">
