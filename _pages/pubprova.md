@@ -9,7 +9,7 @@ author_profile: true
     a:hover {text-decoration: underline;}
 </style>
 
-[<font size="6"><b>Model based clustering in group life insurance via Bayesian nonparametric mixtures</b></font>](https://laura-dangelo.github.io/publication/Model_based_clustering)
+[<font size="4"><b>Model based clustering in group life insurance via Bayesian nonparametric mixtures</b></font>](https://laura-dangelo.github.io/publication/Model_based_clustering)
 
 in: <i>Book of Short Papers SIS 2019</i>, 2019.
 
