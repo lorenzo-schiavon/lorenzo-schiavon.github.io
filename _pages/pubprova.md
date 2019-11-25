@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications Prova"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
