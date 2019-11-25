@@ -4,10 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-#<style type="text/css">
-#    a {text-decoration: none;}
-#    a:hover {text-decoration: underline;}
-#</style>
 
 <a href="https://laura-dangelo.github.io/publication/Model_based_clustering" style="color:rgb(73,78,82)"><b><font size="+1">Model based clustering in group life insurance via Bayesian nonparametric mixtures</font></b></a> 
 <br>
