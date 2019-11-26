@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 <style type="text/css">
-    a {text-decoration: none;}
     a.typeA:hover {text-decoration: underline;}
 </style>
 
