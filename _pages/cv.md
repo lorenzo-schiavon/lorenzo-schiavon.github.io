@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a class="typeA">foo</a>
+
 <style type="text/css">
     a {text-decoration: none;}
     a.typeA:hover {text-decoration: underline;}
@@ -38,6 +38,6 @@ Awards
 
 
 ---
-<foo>
+<a class="typeA">
 <a href="https://laura-dangelo.github.io/files/CV_dangelo_laura.pdf" style="color:rgb(73,78,82)">Complete CV</a>
-</foo>
+</a>
