@@ -38,4 +38,4 @@ Awards
 
 ---
 <a class="typeA" href="https://laura-dangelo.github.io/files/CV_dangelo_laura.pdf" style="color:rgb(73,78,82)">Complete CV</a>
-</a>
+
