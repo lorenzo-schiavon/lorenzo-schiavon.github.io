@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+<font style="font-size:16px">
 Department of Statistical Sciences <br/>
 University of Padova<br/>
 Via Cesare Battisti 241, 35121 Padova, Italy<br/>
@@ -15,7 +16,7 @@ Via Cesare Battisti 241, 35121 Padova, Italy<br/>
 **Email:** <br/>
 laura.dangelo.1@phd.unipd.it<br/>
 dangelo@stat.unipd.it
-
+</font>
 
 <br/>
 
