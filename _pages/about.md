@@ -15,8 +15,8 @@ I am a PhD student in Statistical Sciences at the University of Padova.
 
 <table border="0">
  <tr>
-    <td><b style="font-size:17px">Interests</b></td>
-    <td><b style="font-size:17px">Education</b></td>
+    <td><b style="font-size:18px">Interests</b></td>
+    <td><b style="font-size:18px">Education</b></td>
  </tr>
    <tr>
  <td><img src="../images/index.png" width="20"> <font style="font-size:17px"> Bayesian statistics </font></td>
