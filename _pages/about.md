@@ -19,11 +19,11 @@ I am a PhD student in Statistical Sciences at the University of Padova.
     <td><b style="font-size:17px">Education</b></td>
  </tr>
    <tr>
- <td><img src="../images/index.png" width="20"> <style="font-size:17px"> Bayesian statistics </style></td>
- <td> <img src="../images/49944.png" width="24">  <style="font-size:17px">  PhD in Statistical Sciences (ongoing)</style></td>
+ <td><img src="../images/index.png" width="20"> <style="font-size:17px"> Bayesian statistics </td>
+ <td> <img src="../images/49944.png" width="24">  <style="font-size:17px">  PhD in Statistical Sciences (ongoing)</td>
  </tr>
  <tr>
-    <td><img src="../images/index.png" width="20">  <style="font-size:17px">  Bayesian nonparametrics</style></td>
+    <td><img src="../images/index.png" width="20">  <style="font-size:17px">  Bayesian nonparametrics</td>
     <td><img src="../images/49944.png" width="24">  <style="font-size:17px">  M.S. in Statistical Sciences</style></td>
  </tr>
  <tr>
