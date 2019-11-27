@@ -11,7 +11,7 @@ redirect_from:
 I am a PhD student in Statistical Sciences at the University of Padova. 
 </font>
 
-
+<br>
 
 <table border="0">
  <tr>
