@@ -19,15 +19,15 @@ I am a PhD student in Statistical Sciences at the University of Padova.
     <td><b style="font-size:17px">Education</b></td>
  </tr>
    <tr>
- <td><img src="../images/index.png" width="20"> <style="font-size:17px"> Bayesian statistics </td>
- <td> <img src="../images/49944.png" width="24">  <style="font-size:17px">  PhD in Statistical Sciences (ongoing)</td>
+ <td><img src="../images/index.png" width="20"> <font style="font-size:17px"> Bayesian statistics </font></td>
+ <td> <img src="../images/49944.png" width="24">  <font style="font-size:17px">  PhD in Statistical Sciences (ongoing)</font></td>
  </tr>
  <tr>
-    <td><img src="../images/index.png" width="20">  <style="font-size:17px">  Bayesian nonparametrics</td>
-    <td><img src="../images/49944.png" width="24">  <style="font-size:17px">  M.S. in Statistical Sciences</style></td>
+    <td><img src="../images/index.png" width="20">  <font style="font-size:17px">  Bayesian nonparametrics</font></td>
+    <td><img src="../images/49944.png" width="24">  <font style="font-size:17px">  M.S. in Statistical Sciences</font></td>
  </tr>
  <tr>
-    <td><img src="../images/index.png" width="20">  <style="font-size:17px"> Computational statistics </style></td>
-    <td><img src="../images/49944.png" width="24">  <style="font-size:17px"> B.S. in Statistics, Economics and Finance</style></td>
+    <td><img src="../images/index.png" width="20">  <font style="font-size:17px"> Computational statistics </font></td>
+    <td><img src="../images/49944.png" width="24">  <font style="font-size:17px"> B.S. in Statistics, Economics and Finance</font></td>
  </tr>
 </table>
