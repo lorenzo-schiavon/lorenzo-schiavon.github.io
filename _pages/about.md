@@ -9,6 +9,7 @@ redirect_from:
 ---
 <font style="font-size:17px">
 I am a PhD student in Statistical Sciences at the University of Padova. 
+</font>
 
 
 
@@ -18,16 +19,15 @@ I am a PhD student in Statistical Sciences at the University of Padova.
     <td><b style="font-size:17px">Education</b></td>
  </tr>
    <tr>
- <td><img src="../images/index.png" width="20"> <font style="font-size:17px"> Bayesian statistics </font></td>
- <td> <img src="../images/49944.png" width="24"> <font style="font-size:17px"> PhD in Statistical Sciences (ongoing)</font></td>
+ <td><img src="../images/index.png" width="20"> <b style="font-size:17px"> Bayesian statistics </b></td>
+ <td> <img src="../images/49944.png" width="24">  <b style="font-size:17px">  PhD in Statistical Sciences (ongoing)</b></td>
  </tr>
  <tr>
-    <td><img src="../images/index.png" width="20"> <font style="font-size:17px"> Bayesian nonparametrics</font></td>
-    <td><img src="../images/49944.png" width="24"> <font style="font-size:17px"> M.S. in Statistical Sciences</font></td>
+    <td><img src="../images/index.png" width="20">  <b style="font-size:17px">  Bayesian nonparametrics</b></td>
+    <td><img src="../images/49944.png" width="24">  <b style="font-size:17px">  M.S. in Statistical Sciences</b></td>
  </tr>
  <tr>
-    <td><img src="../images/index.png" width="20"> <font style="font-size:17px"> Computational statistics </font></td>
-    <td><img src="../images/49944.png" width="24"> <font style="font-size:17px"> B.S. in Statistics, Economics and Finance</font></td>
+    <td><img src="../images/index.png" width="20">  <b style="font-size:17px"> Computational statistics </b></td>
+    <td><img src="../images/49944.png" width="24">  <b style="font-size:17px"> B.S. in Statistics, Economics and Finance</b></td>
  </tr>
 </table>
-</font>
