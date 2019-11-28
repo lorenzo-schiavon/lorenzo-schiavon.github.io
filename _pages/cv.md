@@ -49,57 +49,6 @@ redirect_from:
 
 
 
-
-
-
-
-
-<style type="text/css">
-    a.typeB:
-.hover-6 {
-    &:before {
-        content: '';
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        right: 50%;
-        height: 3px;
-        background-color: @blue;
-        transform: scaleX(0);
-        transform-origin: bottom left;
-
-        transition: transform 0.3s;
-    }
-
-    &:after {
-        content: '';
-        position: absolute;
-        bottom: 0;
-        right: 0;
-        left : 50%;
-        height: 3px;
-        background-color: @blue;
-        transform: scaleX(0);
-        transform-origin: bottom right;
-
-        transition: transform 0.3s;
-    }
-
-    &:hover {
-        &:before {
-            transform: scaleX(1);
-        }
-
-        &:after {
-            transform: scaleX(1);
-        }
-    }
-}
-</style>
-
-
-
-
 <hr>
-<a class="typeB" href="https://laura-dangelo.github.io/files/CV_dangelo_laura.pdf" style="color:rgb(73,78,82)">Complete CV</a>
+<a class="typeA" href="https://laura-dangelo.github.io/files/CV_dangelo_laura.pdf" style="color:rgb(73,78,82)">Complete CV</a>
 
