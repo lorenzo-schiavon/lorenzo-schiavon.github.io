@@ -17,7 +17,7 @@ redirect_from:
 <b> Education </b>
 <ul style="list-style-type:circle;">
   <li> PhD student in Statistical Sciences; <i>University of Padova</i>, 2018-present.</li>
-  <li> M.S. in Statistical Sciences; <i>University of Padova</i>, 2015-2017.</li> <font style="font-size:15px">
+  <li> M.S. in Statistical Sciences; <i>University of Padova</i>, 2015-2017.</li></font> <font style="font-size:15px">
   <i>Thesis title</i>: Bayesian nonparametric models:  applications in insurance</font>
   <font style="font-size:17px"><li> B.S. in Statistics, Economics and Finance; <i>University of Padova</i>, 2012-2015.</li></font> <font style="font-size:15px">
   <i>Thesis title</i>: Covariate-specific area under the ROC curve</font> 
@@ -39,7 +39,7 @@ redirect_from:
 <b>Awards</b>
 <ul style="list-style-type:circle;"> 
 <li>First prize at <a class="typeA" href="http://local.disia.unifi.it/sus3/">Stats Under the Stars<sup>3</sup></a>; Florence, 2017.</li>
-<\ul>
+</ul>
   
   
 <br/>
