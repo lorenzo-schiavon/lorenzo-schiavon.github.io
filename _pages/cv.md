@@ -53,11 +53,9 @@ redirect_from:
   }
   
 a.typeB {
-  background: linear-gradient(to right, var(--mainColor) 0%, var(--mainColor) 100%);
-    background-position: 0 100%;
-    background-repeat: repeat-x;
-    background-size: 1px 1px;
-  color: #000;
+  border-bottom: 1px solid #453886;
+  color: #453886;
+  padding-bottom: .25em;
   text-decoration: none;
 }
 
@@ -69,11 +67,6 @@ a.typeB:hover {
   text-decoration: none;
 }
 </style>
-
-#ff9800;
-
-
-
 
 
 
