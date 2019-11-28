@@ -56,7 +56,7 @@ a.typeB {
   background: linear-gradient(to right, var(--mainColor) 0%, var(--mainColor) 100%);
     background-position: 0 100%;
     background-repeat: repeat-x;
-    background-size: 3px 3px;
+    background-size: 1px 1px;
   color: #000;
   text-decoration: none;
 }
