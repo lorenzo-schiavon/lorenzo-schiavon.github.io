@@ -36,6 +36,22 @@ Awards
 
 
 
+<font style="font-size:17px">
+<ul style="list-style-type:circle;">
+  <li> PhD student in Statistical Sciences; _University of Padova_, 2018-present.</li>
+  <li> M.S. in Statistical Sciences; _University of Padova_, 2015-2017.</li><br/><sub>_Thesis title_: Bayesian nonparametric models:  applications in insurance</sub>
+  <li> B.S. in Statistics, Economics and Finance; _University of Padova_, 2012-2015.</li> <br/><sub>_Thesis title_: Covariate-specific area under the ROC curve</sub> 
+</ul>  
+</font>
+
+
+
+
+
+
+
+
+
 ---
 <a class="typeA" href="https://laura-dangelo.github.io/files/CV_dangelo_laura.pdf" style="color:rgb(73,78,82)">Complete CV</a>
 
