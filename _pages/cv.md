@@ -14,7 +14,7 @@ redirect_from:
 </style>
 
 <font style="font-size:17px">
-<b> Education </b>
+<b style="font-size:18px"> Education </b>
 <ul style="list-style-type:circle;">
   <li> PhD student in Statistical Sciences; <i>University of Padova</i>, 2018-present.</li>
   <li> M.S. in Statistical Sciences; <i>University of Padova</i>, 2015-2017.</li><font style="font-size:15px">
@@ -25,19 +25,19 @@ redirect_from:
 <br>
 
 
-<b> Work experience </b>
+<b style="font-size:18px"> Work experience </b>
 <ul style="list-style-type:circle;">
   <li>2018: Data analyst at Business Integration Partners S.p.a. (Milan). </li>
 </ul>
 <br>
 
-<b>Teaching experience</b>
+<b style="font-size:18px">Teaching experience</b>
 <ul style="list-style-type:circle;"> 
   <li>2016-2017: Academic Tutor at University of Padova.</li>
 </ul>
 
 <br>
-<b>Awards</b>
+<b style="font-size:18px">Awards</b>
 <ul style="list-style-type:circle;"> 
 <li>First prize at <a class="typeA" href="http://local.disia.unifi.it/sus3/">Stats Under the Stars<sup>3</sup></a>; Florence, 2017.</li>
 </ul>
