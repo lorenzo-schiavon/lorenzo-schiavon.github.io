@@ -15,11 +15,10 @@ Via Cesare Battisti 241, 35121 Padova, Italy<br/>
 
 
 <b>Email:</b> <br>
-laura.dangelo.1@phd.unipd.it<br/>
-dangelo@stat.unipd.it
+lorenzo.schiavon@phd.unipd.it<br/>
+lschiavon@stat.unipd.it
 </font>
 
 <br/>
 
-[<img src="../images/twitter.png" width="35">](https://twitter.com/laura_d_angelo)
-[<img src="../images/linkedin-icon-2.svg" width="35">](https://www.linkedin.com/in/laura-dangelo/)
+[<img src="../images/linkedin-icon-2.svg" width="35">](https://www.linkedin.com/in/lorenzo-schiavon/)
