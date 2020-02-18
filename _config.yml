@@ -10,9 +10,7 @@ locale                   : "en-US"
 title                    : "Lorenzo Schiavon"
 title_separator          : "-"
 name                     : &name "Lorenzo Schiavon"
-description              : &description "PhD student @ University of Padova 
-<br>
-MBA fellow at CDI Turin"
+description              : &description "PhD student @ University of Padova - MBA fellow @ CDI Turin"
 url                      : https://lorenzo-schiavon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lorenzo-schiavon/lorenzo-schiavon.github.io"
@@ -84,7 +82,7 @@ analytics:
 author:
   name             : "Lorenzo Schiavon"
   avatar           : "profile.jpg"
-  bio              : "PhD student @ University of Padova and MBA fellow @ CDI Turin"
+  bio              : "PhD student @ University of Padova <br> MBA fellow @ CDI Turin"
   location         : "Padova, Italy"
   employer         :
   pubmed           : 
