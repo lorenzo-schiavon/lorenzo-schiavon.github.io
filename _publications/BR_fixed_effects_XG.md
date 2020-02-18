@@ -1,6 +1,12 @@
 ---
 title: "Bias reduced estimation of a fixed effects model for Expected Goals in association football"
+collection: publications
 permalink: /publication/BR_fixed_effects_XG
+excerpt: ''
+date: 2019-01-01
+venue: 'Book of Short Papers SIS 2019'
+paperurl: ''
+citation: Schiavon, L., Sartori, N. (2019) Model based clustering in group life insurance via Bayesian nonparametric mixtures, in <i>Book of Short Papers SIS 2019</i> (Editors: Arbia, G., Peluso, S., Pini, A. and Rivellini, G.), ISBN: 9788891915108
 ---
 
 ### Bias reduced estimation of a fixed effects model for Expected Goals in association football
