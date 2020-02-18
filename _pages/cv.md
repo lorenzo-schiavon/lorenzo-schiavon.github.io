@@ -16,39 +16,36 @@ redirect_from:
 <font style="font-size:17px">
 <b style="font-size:18px"> Education </b>
 <ul style="list-style-type:circle;">
+  <li> MBA fellow - Science & Management program; <i>Collège des Ingénieurs, Turin.</i>, 2019-present.</li>
   <li> PhD student in Statistical Sciences; <i>University of Padova</i>, 2018-present.</li>
-  <li> M.S. in Statistical Sciences; <i>University of Padova</i>, 2015-2017.</li><font style="font-size:15px">
-  <i>Thesis title</i>: Bayesian nonparametric models:  applications in insurance</font>
-  <font style="font-size:17px"><li> B.S. in Statistics, Economics and Finance; <i>University of Padova</i>, 2012-2015.</li></font> <font style="font-size:15px">
-  <i>Thesis title</i>: Covariate-specific area under the ROC curve</font> 
+  <li> M.S. in Statistical Sciences; <i>University of Padova</i>, 2016-2018.</li><font style="font-size:15px">
+  <i>Thesis title</i>: Bias reduction in a fixed effects model for Expected Goals</font>
+  <font style="font-size:17px"><li> B.S. in Statistics, Economics and Finance; <i>University of Padova</i>, 2013-2016.</li></font> <font style="font-size:15px">
+  <i>Thesis title</i>: Human capital and economic growth: the role of heterogeneity among groups of countries</font> 
 </ul>  
 <br>
 
 
 <b style="font-size:18px"> Work experience </b>
 <ul style="list-style-type:circle;">
-  <li>2018: Data analyst at Business Integration Partners S.p.a. (Milan). </li>
+  <li>2019-present: External consultant at Mercurius BI s.r.l. (Milan) </li>
+  <li>2016: Internship at Sanmarco Informatica s.p.a. (Grisignano di Zocco). </li>
 </ul>
 <br>
 
 <b style="font-size:18px">Teaching experience</b>
 <ul style="list-style-type:circle;"> 
-  <li>2016-2017: Academic Tutor at University of Padova.</li>
+  <li>2017-2018: Academic Tutor at University of Padova.</li>
 </ul>
 
 <br>
 <b style="font-size:18px">Awards</b>
 <ul style="list-style-type:circle;"> 
-<li>First prize at <a class="typeA" href="http://local.disia.unifi.it/sus3/">Stats Under the Stars<sup>3</sup></a>; Florence, 2017.</li>
+<li> Special mention at <a class="typeA" href="https://www.sis-statistica.it/index.php?p=9928&l=ita/">Oliviero Lessi award for the best master thesis about mathematical statistics</a>. Società Italiana di Statistica, 2018.</li>
+<li> Best Report prize at <a class="typeA" href="http://local.disia.unifi.it/sus3/">Stats Under the Stars<sup>3</sup></a>; Florence, 2017.</li>
 </ul>
   
   
 <br/>
 
-
-
-
-
-<hr>
-<a class="typeA" href="https://laura-dangelo.github.io/files/CV_dangelo_laura.pdf" style="color:rgb(73,78,82)">Complete CV</a>
 
