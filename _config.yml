@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Laura D'Angelo"
 title_separator          : "-"
-name                     : &name "Laura D'Angelo"
-description              : &description "PhD student @ University of Padova"
-url                      : https://laura-dangelo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lorenzo Schiavon"
+description              : &description "PhD student @ University of Padova and MBA fellow at CDI Turin"
+url                      : https://lorenzo-schiavon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "laura-dangelo/laura-dangelo.github.io"
+repository               : "lorenzo-schiavon/lorenzo-schiavon.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Laura D'Angelo"
+  name             : "Lorenzo Schiavon"
   avatar           : "profile.jpg"
-  bio              : "PhD student @ University of Padova"
-  location         : "Venezia, Italy"
+  bio              : "PhD student @ University of Padova and MBA fellow @ CDI Turin"
+  location         : "Padova, Italy"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "laura.dangelo.1@phd.unipd.it"
+  email            : "lorenzo.schiavon@phd.unipd.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "laura-dangelo"
+  github           : "lorenzo-schiavon"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,13 +109,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"laura_d_angelo"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  linkedin         : #"laura-dangelo"
+  linkedin         : 
 
 
 # Reading Files
