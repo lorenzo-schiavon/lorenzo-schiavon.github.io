@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-01-01
 venue: 'Book of Short Papers SIS 2019'
 paperurl: ''
-citation: ' Petretta, M., Schiavon, L., Diquigiovanni, J. (2019) Betting on football: a model to predict match outcomes, in <i>Book of Short Papers SIS 2019</i> (Editors: Arbia, G., Peluso, S., Pini, A. and Rivellini, G.), ISBN: 9788891915108'
+citation: Petretta, M., Schiavon, L., Diquigiovanni, J. (2019) Betting on football: a model to predict match outcomes, in <i>Book of Short Papers SIS 2019</i> (Editors: Arbia, G., Peluso, S., Pini, A. and Rivellini, G.), ISBN: 9788891915108
 ---
 
 ### Betting on football: a model to predict match outcomes
