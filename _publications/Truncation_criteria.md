@@ -1,7 +1,7 @@
 ---
 title: "On the trunctation criteria in infinite factor models"
 collection: publications
-permalink: /publication/TruncationCriteria
+permalink: /publication/Truncation_criteria
 excerpt: ''
 date: 2020-01-01
 venue: 'Stat'
