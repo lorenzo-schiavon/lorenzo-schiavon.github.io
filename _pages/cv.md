@@ -28,7 +28,7 @@ redirect_from:
 
 <b style="font-size:18px"> Work experience </b>
 <ul style="list-style-type:circle;">
-  <li>2019-present: External consultant at Mercurius BI s.r.l. (Milan). </li>
+  <li>2019: External consultant at Mercurius BI s.r.l. (Milan). </li>
   <li>2016: Internship at Sanmarco Informatica s.p.a. (Grisignano di Zocco). </li>
 </ul>
 <br>
