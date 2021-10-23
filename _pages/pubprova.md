@@ -8,6 +8,11 @@ author_profile: true
     a.typeA:hover {text-decoration: underline;}
 </style>
 
+<a class="typeA" href="https://lorenzo-schiavon.github.io/publications/GIF" style="color:rgb(73,78,82)"><b>Generalized infinite factorization models</b></a> <br> <font style="font-size:15px">in: <i>Stat</i>, 2021.<br></font><font style="font-size:17px">Schiavon, L., Canale, A., Dunson, D.B. (in press) Generalized infinite factorization models, <i>Biometrika</i> 
+
+<a class="typeA" href="https://lorenzo-schiavon.github.io/publications/Regularized_regression_actions" style="color:rgb(73,78,82)"><b>Bayesian regularized regression of football
+tracking data through structured factor models</b></a> <br> <font style="font-size:15px">in: <i>Book of Short Papers SIS 2021</i>, 2021.<br></font><font style="font-size:17px">Schiavon, L., Canale, A. (2021) Bayesian regularized regression of football tracking data through structured factor models, <i>Book of Short Papers SIS 2021</i> (Editors: Perna, C., Salvati, N. and Schirippa Spagnolo, F.), ISBN: 9788891927361.</font>
+
 <a class="typeA" href="https://lorenzo-schiavon.github.io/publications/Truncation_criteria" style="color:rgb(73,78,82)"><b>On the truncation criteria in infinite factor models</b></a> <br> <font style="font-size:15px">in: <i>Stat</i>, 2020.<br></font><font style="font-size:17px">Schiavon, L., Canale, A. (2020) On the truncation criteria in infinite factor models, <i>Stat</i> 9(1), e298. doi: https://doi.org/10.1002/sta4.298.</font>
 
 <a class="typeA" href="https://lorenzo-schiavon.github.io/publications/BR_fixed_effects_XG" style="color:rgb(73,78,82)"><b>Bias reduced estimation of a fixed effects model for Expected Goals in association football</b></a> <br> <font style="font-size:15px">in: <i>Book of Short Papers SIS 2019</i>, 2019.<br></font><font style="font-size:17px">Schiavon, L., Sartori, N. (2019) Bias reduced estimation of a fixed effects model for Expected Goals in association football, in <i>Book of Short Papers SIS 2019</i> (Editors: Arbia, G., Peluso, S., Pini, A. and Rivellini, G.), ISBN: 9788891915108.</font>
