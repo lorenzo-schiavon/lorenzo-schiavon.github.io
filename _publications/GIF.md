@@ -20,3 +20,4 @@ having impact decreasing with the component index. This article is motivated by 
 and (2) no accommodation for grouped variables and other non-exchangeable structures. We propose a general class of infinite factorization models that address these limitations. Theoretical support is provided, practical gains are shown in simulation studies, and an ecology application
 focusing on modelling bird species occurrence is discussed.
 
+[Link to paper](https://arxiv.org/abs/2103.10333)
