@@ -4,15 +4,15 @@ collection: publications
 permalink: /publication/Regularized_regression_actions
 excerpt: ''
 date: 2021-06-01
-venue: 'Preface XIX 1 Plenary Sessions 2021'
+venue: 'Book of Short Papers SIS 2021'
 paperurl: ''
-citation: Schiavon, L., Canale, A. (2021) Bayesian regularized regression of football tracking data through structured factor models, in <i>Preface XIX 1 Plenary Sessions</i>, 514.
+citation: Schiavon, L., Canale, A. (2021) Bayesian regularized regression of football tracking data through structured factor models, in <i>Book of Short Papers SIS 2021</i> (Editors: Pernal, C., Salvati, N. and Schirippa Spagnolo, F.), ISBN: 9788891927361.
 ---
 
 ### Bayesian regularized regression of football tracking data through structured factor models
-in: _Preface XIX 1 Plenary Sessions_, 2021.
+in: _Book of Short Papers SIS 2021_, 2021.
 
-Citation: Schiavon, L., Canale, A. (2021) Bayesian regularized regression of football tracking data through structured factor models, in <i>Preface XIX 1 Plenary Sessions</i>, 514.
+Citation: Schiavon, L., Canale, A. (2021) Bayesian regularized regression of football tracking data through structured factor models, in <i>Book of Short Papers SIS 2021</i> (Editors: Pernal, C., Salvati, N. and Schirippa Spagnolo, F.), ISBN: 9788891927361.
 
 Abstract: The recent spread of football tracking data motivates the development of statistical tools able to extract and summarize valuable knowledge from the large
 amount of information available. Factor analysis is routinely used in statistics to reduce dimensionality and when it is applied to a set of regressors it induces regularization
