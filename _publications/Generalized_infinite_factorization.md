@@ -10,7 +10,7 @@ citation: Schiavon, L., Canale, A., Dunson, D.B. (in press) Generalized infinite
 ---
 
 ### Generalized infinite factorization models
-in: _Biometrika_, 2021.
+in: _Biometrika_, in press.
 
 Citation: Schiavon, L., Canale, A., Dunson, D.B. (in press) Generalized infinite factorization models, in <i>Biometrika</i>.
 
