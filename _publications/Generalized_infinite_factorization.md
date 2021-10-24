@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-03-01
 venue: 'Biometrika'
 paperurl: ''
-citation: Schiavon, L., Canale, A., Dunson, D.B. (in press) On the truncation criteria in infinite factor models, in <i>Biometrika</i>, 9(1), e298. doi: https://doi.org/10.1002/sta4.298.
+citation: Schiavon, L., Canale, A., Dunson, D.B. (in press) Generalized infinite factorization models, in <i>Biometrika</i>, 9(1), e298. doi: https://doi.org/10.1002/sta4.298.
 ---
 
 
