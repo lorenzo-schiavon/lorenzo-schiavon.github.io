@@ -1,7 +1,7 @@
 ---
 title: "Generalized infinite factorization models"
 collection: publications
-permalink: /publication/Generalized_infinite_factorization
+permalink: /publications/Generalized_infinite_factorization
 excerpt: ''
 date: 2021-01-01
 venue: 'Biometrika'
