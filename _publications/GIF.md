@@ -3,7 +3,7 @@ title: "Generalized infinite factorization models"
 collection: publications
 permalink: /publication/GIF
 excerpt: ''
-date: 2021-12-01
+date: 2021-03-01
 venue: 'Biometrika'
 paperurl: ''
 citation: Schiavon, L., Canale, A., Dunson, D.B. (in press) Generalized infinite factorization models, in <i>Biometrika</i>.
