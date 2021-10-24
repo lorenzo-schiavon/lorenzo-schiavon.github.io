@@ -1,13 +1,14 @@
 ---
-title: "Generalized infinite factorization models"
+title: "On the trunctation criteria in infinite factor models"
 collection: publications
-permalink: /publication/Generalized_infinite_factorization
+permalink: /publication/Truncation_criteria
 excerpt: ''
-date: 2021-01-01
-venue: 'Biometrika'
+date: 2020-01-01
+venue: 'Stat'
 paperurl: ''
-citation: Schiavon, L., Canale, A., Dunson, D.B. (in press) Generalized infinite factorization models, in <i>Biometrika</i>.
+citation: Schiavon, L., Canale, A. (2020) On the truncation criteria in infinite factor models, in <i>Stat</i>, 9(1), e298. doi: https://doi.org/10.1002/sta4.298.
 ---
+
 
 ### Generalized infinite factorization models
 in: _Biometrika_, in press.
