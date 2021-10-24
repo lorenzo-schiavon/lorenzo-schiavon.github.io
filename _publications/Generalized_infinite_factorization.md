@@ -1,12 +1,12 @@
 ---
 title: "Generalized infinite factorization models"
 collection: publications
-permalink: /publication/Truncation_criteria
+permalink: /publication/Generalized_infinite_factorization
 excerpt: ''
 date: 2020-01-01
 venue: 'Biometrika'
 paperurl: ''
-citation: Schiavon, L., Canale, A., Dunson, D.B. (in press) Generalized infinite factorization models, in <i>Biometrika</i>.
+citation: 
 ---
 
 
