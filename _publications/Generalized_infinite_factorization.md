@@ -1,7 +1,7 @@
 ---
 title: "Generalized infinite factorization models"
 collection: publications
-permalink: /publication/Truncation_criteria
+permalink: /publication/Generalized_infinite_factorization
 excerpt: ''
 date: 2021-03-01
 venue: 'Biometrika'
