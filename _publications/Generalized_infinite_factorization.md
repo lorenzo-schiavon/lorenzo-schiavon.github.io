@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-01-01
 venue: 'Biometrika'
 paperurl: ''
-citation: 
+citation: Schiavon, L., Canale, A. (2020) On the truncation criteria in infinite factor models, in <i>Stat</i>, 9(1), e298. doi: https://doi.org/10.1002/sta4.298.
 ---
 
 
