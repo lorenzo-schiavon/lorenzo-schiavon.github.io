@@ -25,22 +25,24 @@ redirect_from:
 </ul>  
 <br>
 
-
 <b style="font-size:18px"> Work experience </b>
 <ul style="list-style-type:circle;">
   <li>2019: External consultant at Mercurius BI s.r.l. (Milan). </li>
+  <li>2018-2019: External watcher at Smartodds Ltd (Padua). </li>
   <li>2016: Internship at Sanmarco Informatica s.p.a. (Grisignano di Zocco). </li>
 </ul>
 <br>
 
 <b style="font-size:18px">Teaching experience</b>
 <ul style="list-style-type:circle;"> 
+  <li>2021: Co-supervisor of Master's degree thesis at University of Padova.</li>
   <li>2017-2018: Academic Tutor at University of Padova.</li>
 </ul>
 
 <br>
 <b style="font-size:18px">Awards</b>
 <ul style="list-style-type:circle;"> 
+<li> Winner team at <a class="typeA" href="https://www.innovation4change.eu/edition-2021/">2021 edition of Innovation 4 change program</a> with the <a class="typeA" href="https://farmelody.com/">Farmelody project</a>. Turin, 2021.</li>
 <li> Special mention at <a class="typeA" href="https://www.sis-statistica.it/index.php?p=9928&l=ita/">Oliviero Lessi award for the best master thesis about mathematical statistics</a>. Società Italiana di Statistica, 2018.</li>
 <li> Best Report prize at <a class="typeA" href="http://local.disia.unifi.it/sus3/">Stats Under the Stars<sup>3</sup></a>; Florence, 2017.</li>
 </ul>
