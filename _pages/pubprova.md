@@ -8,7 +8,7 @@ author_profile: true
     a.typeA:hover {text-decoration: underline;}
 </style>
 
-<a class="typeA" href="https://lorenzo-schiavon.github.io/publications/Generalized_infinite_factorization" style="color:rgb(73,78,82)"><b>Generalized infinite factorization models</b></a> <br> <font style="font-size:15px">in: <i>Biometrika</i>, in press.<br></font><font style="font-size:17px">Schiavon, L., Canale, A., Dunson, D.B. (in press) Generalized infinite factorization models, <i>Biometrika</i> 
+<a class="typeA" href="https://lorenzo-schiavon.github.io/publications/Generalized_infinite_factorization" style="color:rgb(73,78,82)"><b>Generalized infinite factorization models</b></a> <br> <font style="font-size:15px">in: <i>Biometrika</i>, in press.<br></font><font style="font-size:17px">Schiavon, L., Canale, A., Dunson, D.B. (in press) Generalized infinite factorization models, <i>Biometrika</i>. doi: https://doi.org/10.1093/biomet/asab056.</font>
     
 <a class="typeA" href="https://lorenzo-schiavon.github.io/publications/Amyloid_inflammation" style="color:rgb(73,78,82)"><b>Is amyloid involved in acute neuroinflammation? A CSF analysis in encephalitis</b></a> <br> <font style="font-size:15px">in: <i>Alzheimer's & Dementia</i>, in press.<br></font><font style="font-size:17px">Padovani, A., Canale, A., Schiavon, L., Masciocchi, S., Imarisio, A., Risi, B., Bonzi, G., De Giuli, V., Di Luca, M., 
 Ashton, N.J., Blennow, K., Zetterberg, H., Pilotto, A. (in press) Is amyloid involved in acute neuroinflammation? A CSF analysis in encephalitis, <i>Alzheimer's & Dementia</i>   
