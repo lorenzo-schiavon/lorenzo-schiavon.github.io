@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <font style="font-size:17px">
-I am a PhD student in Statistical Sciences at the University of Padova and a fellow of the Science and Management MBA program at the Collège des Ingènieurs Italia. 
+I am a Postdoctoral Research fellow at the Department of Statistical Sciences of University of Padova and a fellow of the Science and Management MBA program at the Collège des Ingènieurs Italia. 
 </font>
 
 <br>
