@@ -13,7 +13,7 @@ citation: Padovani, A., Canale, A., Schiavon, L., Masciocchi, S., Imarisio, A., 
 in: _Alzheimer's & Dementia_, 2022.
 
 Citation: Padovani, A., Canale, A., Schiavon, L., Masciocchi, S., Imarisio, A., Risi, B., Bonzi, G., De Giuli, V., Di Luca, M., 
-Ashton, N.J., Blennow, K., Zetterberg, H., Pilotto, A. (2022) Is amyloid involved in acute neuroinflammation? A CSF analysis in encephalitis, in <i>Alzheimer's & Dementia</i>, , . doi: 10.1002/alz.12554.
+Ashton, N.J., Blennow, K., Zetterberg, H., Pilotto, A. (2022) Is amyloid involved in acute neuroinflammation? A CSF analysis in encephalitis, in <i>Alzheimer's & Dementia</i>, doi: 10.1002/alz.12554.
 
 Abstract:
 Introduction: several investigations argued for a strong relationship between neuroinflammation and amyloid metabolism but it is still unclear whether inflammation exerts a pro-amyloidogenic effect, amplifies the neurotoxic effect of amyloid or is protective. 
