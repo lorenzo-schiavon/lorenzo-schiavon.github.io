@@ -20,3 +20,5 @@ Introduction: several investigations argued for a strong relationship between ne
 Methods: forty-two patients with encephalitis and 18 controls underwent an extended CSF panel of inflammatory, amyloid (Aβ40, 42 and 38, sAPP-α, sAPP-β), glial and neuronal biomarkers. Linear and non-linear correlations between CSF biomarkers were evaluated studying conditional independence relationships.
 Results: CSF levels of inflammatory cytokines and neuronal/glial markers were higher in ENC compared with controls, whereas the levels of amyloid-related markers did not differ. Inflammatory markers were not associated with amyloid markers but exhibited a correlation with glial and neuronal markers in conditional independence analysis. 
 Discussion: By an extensive CSF biomarkers analysis, this study showed that an acute inflammation  associated with glial activation and neuronal damage does not impact on amyloid homeostasis. 
+
+[Link to the paper](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12554)
