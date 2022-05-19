@@ -17,7 +17,7 @@ redirect_from:
 <b style="font-size:18px"> Education </b>
 <ul style="list-style-type:circle;">
   <li> MBA fellow - Science & Management program; <i>Collège des Ingénieurs, Turin.</i>, 2019-present.</li>
-  <li> Ph.D. in Statistical Sciences; <i>University of Padova</i>, 2018-present.</li>
+  <li> Ph.D. in Statistical Sciences; <i>University of Padova</i>, 2018-2022.</li>
   <li> M.S. in Statistical Sciences; <i>University of Padova</i>, 2016-2018.</li><font style="font-size:15px">
   <i>Thesis title</i>: Bias reduction in a fixed effects model for Expected Goals</font>
   <font style="font-size:17px"><li> B.S. in Statistics, Economics and Finance; <i>University of Padova</i>, 2013-2016.</li></font> <font style="font-size:15px">
