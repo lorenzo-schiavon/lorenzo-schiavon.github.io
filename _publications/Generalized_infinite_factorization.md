@@ -11,7 +11,7 @@ citation: Schiavon, L., Canale, A., Dunson, D.B. (2022) Generalized infinite fac
 
 
 ### Generalized infinite factorization models
-in: _Biometrika_, in press.
+in: _Biometrika_, 2022.
 
 Citation: Schiavon, L., Canale, A., Dunson, D.B. (2022) Generalized infinite factorization models, in <i>Biometrika</i>, doi: 10.1093/biomet/asab056.
 
