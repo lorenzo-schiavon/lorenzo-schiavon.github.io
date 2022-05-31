@@ -15,7 +15,7 @@ Via Cesare Battisti 241, 35121 Padova, Italy<br/>
 
 
 <b>Email:</b> <br>
-lorenzo.schiavon@phd.unipd.it<br/>
+lorenzo.schiavon@unipd.it<br/>
 lschiavon@stat.unipd.it
 </font>
 
