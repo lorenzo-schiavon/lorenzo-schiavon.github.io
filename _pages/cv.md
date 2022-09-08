@@ -33,7 +33,7 @@ redirect_from:
 <font style="font-size:17px">
 <b style="font-size:18px"> Education </b>
 <ul style="list-style-type:circle;">
-  <li> MBA fellow - Science & Management program; <i>Collège des Ingénieurs, Turin.</i>, 2019-present.</li>
+  <li> MBA - Science & Management program; <i>Collège des Ingénieurs, Turin.</i>, 2019-2022.</li>
   <li> Ph.D. in Statistical Sciences; <i>University of Padova</i>, 2018-2022.</li><font style="font-size:15px">
   <i>Thesis</i>: Bayesian infinite factorization methods with applications to tracking data in football</font>
   <li> M.S. in Statistical Sciences; <i>University of Padova</i>, 2016-2018.</li><font style="font-size:15px">
