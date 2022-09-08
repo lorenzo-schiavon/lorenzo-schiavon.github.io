@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <font style="font-size:17px">
-I am a Postdoctoral Research fellow at the Department of Statistical Sciences of University of Padova and a fellow of the Science and Management MBA program at the Collège des Ingènieurs Italia. 
+I am a Postdoctoral Research fellow at the Department of Statistical Sciences of University of Padova and a data science consultant. 
 </font>
 
 <br>
@@ -20,7 +20,7 @@ I am a Postdoctoral Research fellow at the Department of Statistical Sciences of
  </tr>
    <tr>
  <td><img src="../images/index.png" width="20"> <font style="font-size:17px"> Bayesian statistics </font></td>
- <td><img src="../images/49944.png" width="24">  <font style="font-size:17px">  MBA - Science and Management (ongoing)</font></td>
+ <td><img src="../images/49944.png" width="24">  <font style="font-size:17px">  MBA - Science and Management </font></td>
  </tr>
  <tr>
     <td><img src="../images/index.png" width="20">  <font style="font-size:17px">  Statistics for Business Processes </font></td>
