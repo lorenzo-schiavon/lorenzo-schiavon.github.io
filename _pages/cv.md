@@ -45,6 +45,7 @@ redirect_from:
 
 <b style="font-size:18px">Teaching experience</b>
 <ul style="list-style-type:circle;"> 
+  <li>2022: Teaching assistant of Multidimensional Data Analysis. Bachelor's degree in Statistics for Technologies and Sciences. University of Padova.</li>
   <li>2021: Co-supervisor of Master's degree thesis at University of Padova.</li>
   <li>2017-2018: Academic Tutor at University of Padova.</li>
 </ul>
