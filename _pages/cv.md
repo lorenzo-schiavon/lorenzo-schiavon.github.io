@@ -16,13 +16,14 @@ redirect_from:
 <font style="font-size:17px">
 <b style="font-size:18px"> Current position </b>
 <ul style="list-style-type:circle;">
-  <li> Postdoctoral research fellow; <i>Department of Statistical Sciences, University of Padova</i>, 2022-present.</li>
+  <li> Assistant professor; <i>Department of Economics, Ca' Foscari University of Venice</i>, 2023-present.</li>
 </ul>  
 <br>
 
 <b style="font-size:18px"> Work experience </b>
 <ul style="list-style-type:circle;">
-  <li>2021-present: Data science consultant at GEDI Gruppo Editoriale (Turin). </li>
+  <li>2022-2023: Data science consultant at GEDI Gruppo Editoriale (Turin). </li>
+  <li>2021-2023: Postdoctoral research fellow; <i>University of Padova</i>. </li>
   <li>2021-present: Data science and financial advisor at Farmelody startup project. </li>
   <li>2019: Consultant at Mercurius BI s.r.l. (Milan). </li>
   <li>2018-2019: External watcher at Smartodds Ltd (Padua). </li>
