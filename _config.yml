@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lorenzo Schiavon"
 title_separator          : "-"
 name                     : &name "Lorenzo Schiavon"
-description              : &description "Assistant professor @ Ca' Foscari University of Venice - Data science consultant"
+description              : &description "Assistant professor @ Ca' Foscari University of Venice"
 url                      : https://lorenzo-schiavon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lorenzo-schiavon/lorenzo-schiavon.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lorenzo Schiavon"
   avatar           : "profile.jpg"
-  bio              : "Assistant professor @ Ca' Foscari University of Venice <br> Data Science consultant"
+  bio              : "Assistant professor @ Ca' Foscari University of Venice"
   location         : "Venice, Italy"
   employer         :
   pubmed           : 
