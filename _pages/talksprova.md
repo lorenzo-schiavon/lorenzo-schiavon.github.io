@@ -4,6 +4,13 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---  
+
+**Structured factorization for single-cell gene expression data** <br> <font size="3">December 18, 2022<br>
+Invited presentation, CMStatistics 2022, London.
+
+**Fast structured matrix factorization with application to football player tracking data** <br> <font size="3">July 19, 2022<br>
+Contributed presentation, International Workshop on Statistical Modelling 2022, Trieste.
+
 **Generalized infinite factorization models with an application to Finnish bird co-occurence data** <br> <font size="3">June 28, 2021<br>
 Contributed presentation, 2021 World Meeting of the International Society for Bayesian Analysis, virtual.
 
