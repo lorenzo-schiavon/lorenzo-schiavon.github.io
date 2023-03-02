@@ -20,11 +20,11 @@ I am a Postdoctoral Research fellow at the Department of Statistical Sciences of
  </tr>
    <tr>
  <td><img src="../images/index.png" width="20"> <font style="font-size:17px"> Bayesian statistics </font></td>
- <td><img src="../images/49944.png" width="24">  <font style="font-size:17px">  MBA - Science and Management </font></td>
+ <td><img src="../images/49944.png" width="24">  <font style="font-size:17px">  PhD in Statistical Science </font></td>
  </tr>
  <tr>
     <td><img src="../images/index.png" width="20">  <font style="font-size:17px">  Statistics for Business Processes </font></td>
-    <td> <img src="../images/49944.png" width="24">  <font style="font-size:17px">  PhD in Statistical Science</font></td>
+    <td> <img src="../images/49944.png" width="24">  <font style="font-size:17px"> MBA - Science and Management </font></td>
  </tr>
  <tr>
     <td><img src="../images/index.png" width="20">  <font style="font-size:17px">  Sport analytics </font></td>
