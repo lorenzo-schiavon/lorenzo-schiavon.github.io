@@ -22,8 +22,8 @@ redirect_from:
 
 <b style="font-size:18px"> Work experience </b>
 <ul style="list-style-type:circle;">
-  <li>2022-2023: Data science consultant at GEDI Gruppo Editoriale (Turin). </li>
-  <li>2021-2023: Postdoctoral research fellow; <i>University of Padova</i>. </li>
+  <li>2022-2023: Postdoctoral research fellow at University of Padova (Padova). </li>
+  <li>2021-2023: Data science consultant at GEDI Gruppo Editoriale (Turin). </li>
   <li>2021-present: Data science and financial advisor at Farmelody startup project. </li>
   <li>2019: Consultant at Mercurius BI s.r.l. (Milan). </li>
   <li>2018-2019: External watcher at Smartodds Ltd (Padua). </li>
