@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lorenzo Schiavon"
 title_separator          : "-"
 name                     : &name "Lorenzo Schiavon"
-description              : &description "PostDoctoral Research fellow @ University of Padova - Data science consultant"
+description              : &description "Assistant professor @ Ca' Foscari University of Venice - Data science consultant"
 url                      : https://lorenzo-schiavon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lorenzo-schiavon/lorenzo-schiavon.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lorenzo Schiavon"
   avatar           : "profile.jpg"
-  bio              : "PostDoctoral Research fellow @ University of Padova <br> Data Science consultant"
-  location         : "Padova, Italy"
+  bio              : "Assistant professor @ Ca' Foscari University of Venice <br> Data Science consultant"
+  location         : "Venice, Italy"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "lorenzo.schiavon@unipd.it"
+  email            : "lorenzo.schiavon@unive.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
