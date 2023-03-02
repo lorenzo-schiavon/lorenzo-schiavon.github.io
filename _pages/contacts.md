@@ -7,16 +7,15 @@ author_profile: true
 
 {% include base_path %}
 <font style="font-size:17px">
-Department of Statistical Sciences <br/>
-University of Padova<br/>
-Via Cesare Battisti 241, 35121 Padova, Italy<br/>
+Department of Economics <br/>
+Ca' Foscari University of Venice<br/>
+San Giobbe, Cannaregio 873, 30121 Venice, Italy<br/>
 
 <br>
 
 
 <b>Email:</b> <br>
-lorenzo.schiavon@unipd.it<br/>
-lschiavon@stat.unipd.it
+lorenzo.schiavon@unive.it<br/>
 </font>
 
 <br/>
