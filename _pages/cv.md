@@ -16,7 +16,7 @@ redirect_from:
 <font style="font-size:17px">
 <b style="font-size:18px"> Current position </b>
 <ul style="list-style-type:circle;">
-  <li> Assistant professor; <i>Department of Economics, Ca' Foscari University of Venice</i>, 2023-present.</li>
+  <li> Research fellow (RTDa); <i>Department of Economics, Ca' Foscari University of Venice</i>, 2023-present.</li>
 </ul>  
 <br>
 
