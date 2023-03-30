@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <font style="font-size:17px">
-I am an assistant professor in Statistics at the Department of Economics of Ca' Foscari University of Venice and a data science consultant. 
+I am a research fellow in Statistics at the Department of Economics of Ca' Foscari University of Venice and a data science consultant. 
 </font>
 
 <br>
