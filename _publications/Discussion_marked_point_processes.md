@@ -1,7 +1,7 @@
 ---
 title: "Contribution to the Discussion of ‘Flexible marked spatio-temporal point processes with applications to event sequences from association football’"
 collection: publications
-permalink: /publication/Discussion_marked_point.md
+permalink: /publication/Discussion_marked_point_processes.md
 excerpt: ''
 date: 2023-07-30
 venue: 'Journal of Royal Statistical Society - Series C'
