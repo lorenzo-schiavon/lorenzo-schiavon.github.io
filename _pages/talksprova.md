@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---  
 
+**Latent Bayesian clustering of regional health public plans** <br> <font size="3">September 13, 2023<br>
+Invited presentation, CLADAG 2023, Salerno.
+
 **Structured factorization for single-cell gene expression data** <br> <font size="3">December 18, 2022<br>
 Invited presentation, CMStatistics 2022, London.
 
