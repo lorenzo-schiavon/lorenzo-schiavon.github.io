@@ -24,7 +24,6 @@ redirect_from:
 <ul style="list-style-type:circle;">
   <li>2022-2023: Postdoctoral research fellow at University of Padova (Padova). </li>
   <li>2021-2023: Data science consultant at GEDI Gruppo Editoriale (Turin). </li>
-  <li>2021-present: Data science and financial advisor at Farmelody startup project. </li>
   <li>2019: Consultant at Mercurius BI s.r.l. (Milan). </li>
   <li>2018-2019: External watcher at Smartodds Ltd (Padua). </li>
   <li>2016: Internship at Sanmarco Informatica s.p.a. (Grisignano di Zocco). </li>
@@ -46,12 +45,21 @@ redirect_from:
 
 <b style="font-size:18px">Teaching experience</b>
 <ul style="list-style-type:circle;"> 
-  <li>2023: Quantitative and qualitative methods. Digital Business and Data Science. H-FARM College.</li>
+   <li>2023: Statistical Learning for Data Science - module I. Master's degree in Data analytics for Business and Society. Ca' Foscari University of Venice. </li>
+   <li>2023: Machine Learning: Zero to Hero. Enhancing course for Bachelors. H-FARM College. </li>
+  <li>2023: Teaching assistant of Statistics (Advanced). Master's degree in Statistical Sciences. University of Padova.</li>
+  <li>2023: Quantitative and qualitative methods. Bachelor's degree in Digital Business and Data Science. H-FARM College.</li>
   <li>2022: Teaching assistant of Multidimensional Data Analysis. Bachelor's degree in Statistics for Technologies and Sciences. University of Padova.</li>
   <li>2021: Co-supervisor of Master's degree thesis at University of Padova.</li>
   <li>2017-2018: Academic Tutor at University of Padova.</li>
 </ul>
-  
+
+
+<b style="font-size:18px">Workshops</b>
+<ul style="list-style-type:circle;"> 
+   <li>2023: Effective Data Visualization. December, 5. H-FARM College. </li>
+   <li>2023: Bootstrap introduction. February 16-23-24. AB Analitica. </li>
+</ul>
   
 <br/>
 
