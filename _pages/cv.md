@@ -53,7 +53,7 @@ redirect_from:
   <li>2021: Co-supervisor of Master's degree thesis at University of Padova.</li>
   <li>2017-2018: Academic Tutor at University of Padova.</li>
 </ul>
-
+<br>
 
 <b style="font-size:18px">Workshops</b>
 <ul style="list-style-type:circle;"> 
