@@ -45,6 +45,8 @@ redirect_from:
 
 <b style="font-size:18px">Teaching experience</b>
 <ul style="list-style-type:circle;"> 
+   <li>2024: Social and Health Statistics - module I. PhD in Public Administration, Ca’ Foscari University of Venice. </li>
+   <li>2024: Machine Learning Fundamentals. Bachelor's degree in Management and Data Science. H-FARM College. </li>
    <li>2023: Statistical Learning for Data Science - module I. Master's degree in Data analytics for Business and Society. Ca' Foscari University of Venice. </li>
    <li>2023: Machine Learning: Zero to Hero. Enhancing course for Bachelors. H-FARM College. </li>
   <li>2023: Teaching assistant of Statistics (Advanced). Master's degree in Statistical Sciences. University of Padova.</li>
