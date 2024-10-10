@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---  
 
+**Efficient posterior inference for spatio-temporal modelling** <br> <font size="3">June 18, 2024<br>
+Solicited presentation, SIS 2024, Bari.
+
 **Latent Bayesian clustering of regional health public plans** <br> <font size="3">September 13, 2023<br>
 Invited presentation, CLADAG 2023, Salerno.
 
