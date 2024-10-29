@@ -15,6 +15,7 @@ redirect_from:
 
 
 <ul style="list-style-type:circle;"> 
+<li> <a class="typeA" href="https://800years.stat.unipd.it/?page_id=15">Best Poster Award</a> at <i>Lorenzo Bernardi e la Statistica Sociale.</i> Joint with Mattia Stival. Padova, 2024.</li>
 <li> <a class="typeA" href="https://800years.stat.unipd.it/?page_id=15">Third Best Poster Award</a> at Statistical Methods and Models for Complex Data. Padova, 2022.</li>
 <li> <a class="typeA" href="https://stat.unipd.it/premio-alla-ricerca-2021-research-prize-2021">Research prize 2021</a> at the department of Statistical Sciences of University of Padova. Padova, 2022.</li>
 <!-- <li> <a class="typeA" href="https://isbawebmaster.github.io/ISBA2022/"> ISBA 2022 World Meeting</a> travel award. International Society for Bayesian Analysis, 2022.</li> -->
