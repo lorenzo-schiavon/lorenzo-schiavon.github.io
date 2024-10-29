@@ -11,7 +11,7 @@ author_profile: true
 
 ## Accepted Papers
 
-<a class="typeA" href="https://lorenzo-schiavon.github.io/publications/XG" style="color:rgb(73,78,82)"><b>Accelerated structured matrix factorization</b></a> <br> <font style="font-size:15px">in: <i>Journal of Quantitative Analysis in Sports</i>, 2024.<br></font><font style="font-size:17px"> Nipoti, B., Schiavon, L. (In press) Expected goals under a Bayesian viewpoint: uncertainty quantification and online learning, <i>Journal of Quantitative Analysis in Sports</i>.</font>
+<a class="typeA" href="https://lorenzo-schiavon.github.io/publications/XG" style="color:rgb(73,78,82)"><b>Expected goals under a Bayesian viewpoint: uncertainty quantification and online learning</b></a> <br> <font style="font-size:15px">in: <i>Journal of Quantitative Analysis in Sports</i>, 2024.<br></font><font style="font-size:17px"> Nipoti, B., Schiavon, L. (In press) Expected goals under a Bayesian viewpoint: uncertainty quantification and online learning, <i>Journal of Quantitative Analysis in Sports</i>.</font>
 
 <a class="typeA" href="https://lorenzo-schiavon.github.io/publications/Xfile" style="color:rgb(73,78,82)"><b>Accelerated structured matrix factorization</b></a> <br> <font style="font-size:15px">in: <i>Journal of Computational and Graphical Statistics</i>, 2024.<br></font><font style="font-size:17px">Schiavon, L., Nipoti, B., Canale, A. (2024) Accelerated structured matrix factorization, <i>Journal of Computational and Graphical Statistics</i>, 33 (3), 917--927. doi: https://doi.org/10.1080/10618600.2023.2301072.</font>
 
