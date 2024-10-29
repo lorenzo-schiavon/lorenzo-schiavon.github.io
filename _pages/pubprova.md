@@ -9,7 +9,7 @@ author_profile: true
 </style>
 
 
-<b style="font-size:20px;color:rgb(128,128,128)"> Accepted Papers </b>
+<b style="color:rgb(128,128,128);font-size:20px;"> Accepted Papers </b>
 
 <a class="typeA" href="https://lorenzo-schiavon.github.io/publications/XG" style="color:rgb(73,78,82)"><b>Expected goals under a Bayesian viewpoint: uncertainty quantification and online learning</b></a> <br> <font style="font-size:15px">in: <i>Journal of Quantitative Analysis in Sports</i>, 2024.<br></font><font style="font-size:17px"> Nipoti, B., Schiavon, L. (In press) Expected goals under a Bayesian viewpoint: uncertainty quantification and online learning, <i>Journal of Quantitative Analysis in Sports</i>.</font>
 
