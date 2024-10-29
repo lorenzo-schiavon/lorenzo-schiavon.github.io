@@ -32,7 +32,7 @@ Ashton, N.J., Blennow, K., Zetterberg, H., Pilotto, A. (2022) Is amyloid involve
 <a class="typeA" href="https://lorenzo-schiavon.github.io/publications/Discussion_marked_point_processes" style="color:rgb(73,78,82)"><b>Contribution to the Discussion of ‘Flexible marked spatio-temporal point processes with applications to event sequences from association football’</b></a> <br> <font style="font-size:15px">in: <i>Journal of the Royal Statistical Society - C</i>, 2023.<br></font><font style="font-size:17px">Stival, M., Schiavon, L. (2023) Mattia Stival and Lorenzo Schiavon’s contribution to the Discussion of ‘Flexible marked spatio-temporal point processes with applications to event sequences from association football’ by Narayanan, Kosmidis and Dellaportas, <i>Journal of the Royal Statistical Society, Series C</i>, 72 (5), 1132--1133. doi: 10.1093/jrsssc/qlad068.</font>
 
 
-## Conference Proceedings (peer reviewed)
+## Conference Proceedings
 
 <a class="typeA" href="https://lorenzo-schiavon.github.io/publications/PASSI_variational" style="color:rgb(73,78,82)"><b>Efficient posterior inference for spatiotemporal modelling of repeated cross-sectional data.</b></a> <br> <font style="font-size:15px">in: <i>Methodological and Applied Statistics and Demography II - SIS 2024, Short Papers, Solicited Sessions</i>, 2024.<br></font><font style="font-size:17px">
 Schiavon, L., Stival, M. (In press). Efficient posterior inference for spatiotemporal modelling of repeated cross-sectional data, <i>Methodological and Applied Statistics and Demography II - SIS 2024, Short Papers, Solicited Sessions</i> (Editors:  Pollice, A., Mariani, P.), ISBN e-book: 9783031643507.</font>
