@@ -6,14 +6,14 @@ excerpt: ''
 date: 2024-10-31
 venue: 'Journal of Quantitative Analysis in Sports'
 paperurl: ''
-citation: Nipoti, B., Schiavon, L. (In press) Expected goals under a Bayesian viewpoint: uncertainty quantification and online learning, in <i>Journal of Quantitative Analysis in Sports</i>, https://doi.org/10.1515/jqas-2024-0081.
+citation: Nipoti, B., Schiavon, L. (In press) Expected goals under a Bayesian viewpoint: uncertainty quantification and online learning, in <i>Journal of Quantitative Analysis in Sports</i>, doi: 10.1515/jqas-2024-0081.
 ---
 
 
 ### Expected goals under a Bayesian viewpoint: uncertainty quantification and online learning
 in: _Journal of Quantitative Analysis in Sports_, 2024.
 
-Citation: Nipoti, B., Schiavon, L. (In press) Expected goals under a Bayesian viewpoint: uncertainty quantification and online learning, in <i>Journal of Quantitative Analysis in Sports</i>, https://doi.org/10.1515/jqas-2024-0081.
+Citation: Nipoti, B., Schiavon, L. (In press) Expected goals under a Bayesian viewpoint: uncertainty quantification and online learning, in <i>Journal of Quantitative Analysis in Sports</i>, doi: 10.1515/jqas-2024-0081.
 
 Abstract: While the use of expected goals (xG) as a metric for assessing soccer performance is increasingly
 prevalent, the uncertainty associated with their estimates is often overlooked. This work bridges this gap by providing easy-to-implement methods for uncertainty quantification in xG estimates derived from
