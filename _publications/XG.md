@@ -20,4 +20,5 @@ prevalent, the uncertainty associated with their estimates is often overlooked. 
 Bayesian models. Based on a convenient posterior approximation, we devise an online prior-to-posterior update scheme, aligning with the typical in-season model training in soccer. Additionally, we present a
 novel framework to assess and compare the performance dynamics of two teams during a match, while accounting for evolving match scores. Our approach is well-suited for graphical representation and improves
 interpretability. We validate the accuracy of our methods through simulations, and provide a real-world illustration using data from the Italian Serie A league.
+
 [Link to the paper](https://www.degruyter.com/document/doi/10.1515/jqas-2024-0081/html)
