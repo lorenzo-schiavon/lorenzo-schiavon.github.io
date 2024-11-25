@@ -10,7 +10,7 @@ citation: Stival, M., Schiavon, L., Campostrini, S. (In press) A Bayesian approa
 ---
 
 
-### Generalized infinite factorization models
+### A Bayesian approach to model local and temporal heterogeneity in repeated cross-sectional health surveys
 in: _JRSS-A_, in press.
 
 Citation: Stival, M., Schiavon, L., Campostrini, S. (In press) A Bayesian approach to model local and temporal heterogeneity in repeated cross-sectional health surveys, in <i>Journal of the Royal Statistical Society Series A: Statistics in Society </i>, doi: 10.1093/jrsssa/qnae138.
