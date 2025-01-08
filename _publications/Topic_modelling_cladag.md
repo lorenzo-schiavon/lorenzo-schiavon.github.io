@@ -1,7 +1,7 @@
 ---
 title: "Latent Bayesian clustering for topic modelling"
 collection: publications
-permalink: /publications/Topic_modelling_cladag
+permalink: /publication/Topic_modelling_cladag
 excerpt: ''
 date: 2023-09-01
 venue: 'CLADAG 2023 Book of Abstracts and Short Papers'
