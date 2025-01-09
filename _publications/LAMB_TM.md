@@ -1,12 +1,12 @@
 ---
 title: "Addressing topic modelling via reduced latent space clustering"
 collection: publications
-permalink: /publication/LAMB_TM
+permalink: /publication/LAMB
 excerpt: ''
-date: 2024-10-31
-venue: 'Journal of Quantitative Analysis in Sports'
+date: 2025-01-08
+venue: 'Statistical Methods & Applications'
 paperurl: ''
-citation: Nipoti, B., Schiavon, L. (In press) Expected goals under a Bayesian viewpoint: uncertainty quantification and online learning, in <i>Journal of Quantitative Analysis in Sports</i>, doi: 10.1515/jqas-2024-0081.
+citation: Schiavon, L. (In press) Addressing topic modelling via reduced latent space clustering, in <i>Statistical Methods & Applications</i>.
 ---
 
 ### Addressing topic modelling via reduced latent space clustering
@@ -22,3 +22,4 @@ constructs. Here, groups and underlying constructs are interpreted as document t
 Additionally, we demonstrate the effectiveness of our approach using synthetic data, providing a comparison with existing methods in the literature.
 The illustration of our approach on a corpus of Italian health public plans unveils intriguing patterns concerning the semantic structures used in aging policies and document topic similarities.
 
+[Link to paper]()
