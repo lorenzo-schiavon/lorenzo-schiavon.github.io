@@ -1,12 +1,12 @@
 ---
 title: "Addressing topic modelling via reduced latent space clustering"
 collection: publications
-permalink: /publication/LAMB_TM
+permalink: /publication/LAMB
 excerpt: ''
 date: 2025-01-08
-venue: 'Statistical Methods & Applications'
+venue: 'Statistical Methods Applications'
 paperurl: ''
-citation: Schiavon, L. (In press) Addressing topic modelling via reduced latent space clustering, in <i>Statistical Methods & Applications</i>.
+citation: Schiavon, L. (In press) Addressing topic modelling via reduced latent space clustering, in <i>Statistical Methods Applications</i>.
 ---
 
 ### Addressing topic modelling via reduced latent space clustering
