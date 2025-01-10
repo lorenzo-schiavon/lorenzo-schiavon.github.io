@@ -9,7 +9,7 @@ paperurl: ''
 citation: Stival, M., Schiavon, L., Bertarelli, G., Campostrini, S. (In press) Exploring disease prevalence in Italy: a web application utilizing sample-based predictions from a Bayesian spatio-temporal model with external validation, in <i>Methodological and Applied Statistics and Demography IV - SIS 2024, Short Papers Contributed Sessions 2</i> (Editors: Pollice, A., Mariani, P.), ISBN e-book: 9783031644474.
 ---
 
-### Latent Bayesian clustering for topic modelling
+### Exploring disease prevalence in Italy: a web application utilizing sample-based predictions from a Bayesian spatio-temporal model with external validation
 in: _Methodological and Applied Statistics and Demography IV - SIS 2024, Short Papers, Contributed Sessions 2_, 2024.
 
 Citation: Stival, M., Schiavon, L., Bertarelli, G., Campostrini, S. (In press) Exploring disease prevalence in Italy: a web application utilizing sample-based predictions from a Bayesian spatio-temporal model with external validation, in <i>Methodological and Applied Statistics and Demography IV - SIS 2024, Short Papers Contributed Sessions 2</i> (Editors: Pollice, A., Mariani, P.), ISBN e-book: 9783031644474.
