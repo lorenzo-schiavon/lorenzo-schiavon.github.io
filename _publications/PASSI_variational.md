@@ -9,7 +9,7 @@ paperurl: ''
 citation: Schiavon, L., Stival, M. (In press) Efficient posterior inference for spatiotemporal modelling of repeated cross-sectional data, in <i>Methodological and Applied Statistics and Demography II - SIS 2024, Short Papers, Solicited Sessions</i> (Editors: Pollice, A., Mariani, P.), ISBN e-book: 9783031643507.
 ---
 
-### Latent Bayesian clustering for topic modelling
+### Efficient posterior inference for spatiotemporal modelling of repeated cross-sectional data
 in: _Methodological and Applied Statistics and Demography II - SIS 2024, Short Papers, Solicited Sessions_, 2024.
 
 Citation: Schiavon, L., Stival, M. (In press) Efficient posterior inference for spatiotemporal modelling of repeated cross-sectional data, in <i>Methodological and Applied Statistics and Demography II - SIS 2024, Short Papers, Solicited Sessions</i> (Editors: Pollice, A., Mariani, P.), ISBN e-book: 9783031643507.
