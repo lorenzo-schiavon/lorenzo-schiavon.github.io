@@ -12,7 +12,7 @@ citation: Schiavon, L. (In press) Addressing topic modelling via reduced latent 
 ### Addressing topic modelling via reduced latent space clustering
 in: _Statistical Methods & Applications_, accepted for publication.
 
-Citation: Schiavon, L. (In press) Addressing topic modelling via reduced latent space clustering, in <i>Statistical Methods & Applications</i>.
+Citation: Schiavon, L. (2025) Addressing topic modelling via reduced latent space clustering, in <i>Statistical Methods & Applications</i>.
 
 Abstract: In the social sciences, topic modelling is gaining increased attention for its ability to automatically uncover the underlying themes within large corpora of textual data.
 This process typically involves two key phases: (i) identifying the words associated with language concepts, and (ii) clustering documents that share similar word distributions.
