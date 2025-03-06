@@ -9,9 +9,9 @@ author_profile: true
 </style>
 
 
-<b style="font-size:20px"> 2025 </b>
+<b style="font-size:20px"> Accepted scientific papers </b>
 
-<a class="typeA" href="https://lorenzo-schiavon.github.io/publications/local_temporal_morbidity" style="color:rgb(103,108,112)"><b>Addressing topic modelling via reduced latent space clustering</b></a> <br> <font style="font-size:15px">in: <i>Statistical Methods & Applications</i>, accepted for publication.<br></font><font style="font-size:17px"> Schiavon, L. (2025) Addressing topic modelling via reduced latent space clustering, <i>Statistical Methods & Applications</i>. doi: https://doi.org/10.1007/s10260-025-00779-z</font>
+<a class="typeA" href="https://lorenzo-schiavon.github.io/publications/local_temporal_morbidity" style="color:rgb(103,108,112)"><b>Addressing topic modelling via reduced latent space clustering</b></a> <br> <font style="font-size:15px">in: <i>Statistical Methods & Applications</i>, 2025.<br></font><font style="font-size:17px"> Schiavon, L. (2025) Addressing topic modelling via reduced latent space clustering, <i>Statistical Methods & Applications</i>. doi: https://doi.org/10.1007/s10260-025-00779-z</font>
 
 <a class="typeA" href="https://lorenzo-schiavon.github.io/publications/local_temporal_morbidity" style="color:rgb(103,108,112)"><b>A Bayesian approach to model local and temporal heterogeneity in repeated cross-sectional health surveys</b></a> <br> <font style="font-size:15px">in: <i>Journal of the Royal Statistical Society - A</i>, 2024.<br></font><font style="font-size:17px"> Stival, M., Schiavon, L., Campostrini, S. (In press) A Bayesian approach to model local and temporal heterogeneity in repeated cross-sectional health surveys, <i>Journal of the Royal Statistical Society Series A</i>. doi: https://doi.org/10.1093/jrsssa/qnae138.</font>
 
