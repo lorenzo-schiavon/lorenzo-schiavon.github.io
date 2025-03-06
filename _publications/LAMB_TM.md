@@ -1,7 +1,7 @@
 ---
 title: "Addressing topic modelling via reduced latent space clustering"
 collection: publications
-permalink: /publication/LAMB
+permalink: /publication/LAMB_TM
 excerpt: ''
 date: 2025-01-08
 venue: 'Statistical Methods & Applications'
