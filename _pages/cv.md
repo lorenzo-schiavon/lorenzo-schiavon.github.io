@@ -33,8 +33,8 @@ redirect_from:
 <font style="font-size:17px">
 <b style="font-size:18px"> Education </b>
 <ul style="list-style-type:circle;">
-  <li> MBA - Science & Management program; <i>Collège des Ingénieurs, Turin.</i>, 2019-2022.</li>
   <li> Ph.D. in Statistical Sciences; <i>University of Padova</i>, 2018-2022.</li><font style="font-size:15px">
+  <li> MBA - Science & Management program; <i>Collège des Ingénieurs, Turin.</i>, 2019-2022.</li>
   <i>Thesis</i>: Bayesian infinite factorization methods with applications to tracking data in football</font>
   <li> M.S. in Statistical Sciences; <i>University of Padova</i>, 2016-2018.</li><font style="font-size:15px">
   <i>Thesis</i>: Bias reduction in a fixed effects model for Expected Goals</font>
@@ -54,7 +54,6 @@ redirect_from:
   <li>2023: Teaching assistant of Statistics (Advanced). Master's degree in Statistical Sciences. University of Padova.</li>
   <li>2023: Quantitative and qualitative methods. Bachelor's degree in Digital Business and Data Science. H-FARM College.</li>
   <li>2022: Teaching assistant of Multidimensional Data Analysis. Bachelor's degree in Statistics for Technologies and Sciences. University of Padova.</li>
-  <li>2021: Co-supervisor of Master's degree thesis at University of Padova.</li>
   <li>2017-2018: Academic Tutor at University of Padova.</li>
 </ul>
 <br>
@@ -64,7 +63,14 @@ redirect_from:
    <li>2023: Effective Data Visualization. December, 5. H-FARM College. </li>
    <li>2023: Bootstrap introduction. February 16-23-24. AB Analitica. </li>
 </ul>
-  
 <br/>
+
+<b style="font-size:18px">Thesis supervision</b>
+<ul style="list-style-type:circle;"> 
+  <li>2025: Supervisor of Master's degree thesis at Ca' Foscari University of Venice on multiplex network models for airline data.</li>
+  <li>2021: Co-supervisor of Master's degree thesis at University of Padova on structured factor models for count data.</li>
+</ul>
+<br>
+
 
 
