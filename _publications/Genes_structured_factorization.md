@@ -6,14 +6,14 @@ excerpt: ''
 date: 2026-02-19
 venue: 'Journal of Royal Statistical Society - Series C'
 paperurl: ''
-citation: Canale, A., Galtarossa, L., Risso, D., Schiavon, L., Toto, G. (2026) Structured factorization for single-cell gene expression data, in <i>Journal of Royal Statistical Society - Series C</i>, 72 (5), 1132-1133. doi: 10.1093/jrsssc/qlad068.
+citation: Canale, A., Galtarossa, L., Risso, D., Schiavon, L., Toto, G. (2026) Structured factorization for single-cell gene expression data, in <i>Journal of Royal Statistical Society - Series C</i>. doi: 10.1093/jrsssc/qlad068.
 ---
 
 
 ### Structured factorization for single-cell gene expression data
 in: _Journal of Royal Statistical Society - Series C_, 2026.
 
-Citation: Canale, A., Galtarossa, L., Risso, D., Schiavon, L., Toto, G. (2026) Structured factorization for single-cell gene expression data, in <i>Journal of Royal Statistical Society - Series C</i>,  72 (5), 1132-1133. doi: 10.1093/jrsssc/qlad068 
+Citation: Canale, A., Galtarossa, L., Risso, D., Schiavon, L., Toto, G. (2026) Structured factorization for single-cell gene expression data, in <i>Journal of Royal Statistical Society - Series C</i>. doi: 10.1093/jrsssc/qlad068 
 
 Abstract: Motivated by the analysis of complex single-cell gene expression data we propose a Bayesian class of
 generalized factor models for high dimensional count data. The developed methodology allows us to
