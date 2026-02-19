@@ -16,12 +16,13 @@ redirect_from:
 <font style="font-size:17px">
 <b style="font-size:18px"> Current position </b>
 <ul style="list-style-type:circle;">
-  <li> Research fellow (RTDa); <i>Department of Economics, Ca' Foscari University of Venice</i>, 2023-present.</li>
+  <li> Assistant professor (RTT); <i>Department of Statistical Sciences, University of Padova</i>, 2026-present.</li>
 </ul>  
 <br>
 
 <b style="font-size:18px"> Work experience </b>
 <ul style="list-style-type:circle;">
+  <li>2023-2026: Research fellow (RTDa) at Ca' Foscari University of Venice (Venice). </li>
   <li>2022-2023: Postdoctoral research fellow at University of Padova (Padova). </li>
   <li>2021-2023: Data science consultant at GEDI Gruppo Editoriale (Turin). </li>
   <li>2019: Consultant at Mercurius BI s.r.l. (Milan). </li>
@@ -44,7 +45,10 @@ redirect_from:
 <br>
 
 <b style="font-size:18px">Teaching experience</b>
-<ul style="list-style-type:circle;"> 
+<ul style="list-style-type:circle;">
+   <li>2026: Statistical Learning. Master's degree in Data Science, University of Padova. </li>
+   <li>2026: Statistics and Quantitative Biology I - Module Statistics. Bachelor's degree in Biology, University of Padova. </li>
+   <li>2025: Statistics II - Practice. Bachelor's degree in Economics and Commerce, Ca’ Foscari University of Venice. </li>
    <li>2024: Advanced Econometrics - Module V: Factor Models. PhD in Economics, Ca’ Foscari University of Venice. </li>
    <li>2024: Statistics I - Practice. Bachelor's degree in International Trade and Tourism, Ca’ Foscari University of Venice. </li>
    <li>2024: Social and Health Statistics - module I. PhD in Public Administration, Ca’ Foscari University of Venice. </li>
