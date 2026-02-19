@@ -9,7 +9,7 @@ author_profile: true
 </style>
 
 
-<b style="font-size:20px"> Accepted scientific papers </b>
+<b style="font-size:22px"> Accepted scientific papers </b>
 
 <a class="typeA" href="https://lorenzo-schiavon.github.io/publications/Genes_structured_factorization" style="color:rgb(103,108,112)"><b>Structured factorization for single-cell gene expression data</b></a> <br> <font style="font-size:15px">in: <i>Journal of the Royal Statistical Society - C</i>, 2026.<br></font><font style="font-size:17px"> Canale, A., Galtarossa, L., Risso, D., Schiavon, L., Toto, G. (2026) Structured factorization for single-cell gene expression data, <i>Journal of the Royal Statistical Society Series C</i>. doi: https://doi.org/10.1093/jrsssc/qlag09.</font>
 
@@ -31,14 +31,14 @@ Ashton, N.J., Blennow, K., Zetterberg, H., Pilotto, A. (2022) Is amyloid involve
 <a class="typeA" href="https://lorenzo-schiavon.github.io/publications/Truncation_criteria" style="color:rgb(103,108,112)"><b>On the truncation criteria in infinite factor models</b></a> <br> <font style="font-size:15px">in: <i>Stat</i>, 2020.<br></font><font style="font-size:17px">Schiavon, L., Canale, A. (2020) On the truncation criteria in infinite factor models, <i>Stat</i>, 9(1), e298. doi: https://doi.org/10.1002/sta4.298.</font>
 
 
-<b style="font-size:20px"> Discussions </b>
+<b style="font-size:22px"> Discussions </b>
 
 <a class="typeA" href="https://lorenzo-schiavon.github.io/publications/Discussion_UGLT" style="color:rgb(103,108,112)"><b>Invited Discussion of ‘Sparse Bayesian factor analysis when the number of factors is unknown’</b></a> <br> <font style="font-size:15px">in: <i>Bayesian Analysis</i>, 2024.<br></font><font style="font-size:17px">Canale, A., Schiavon, L, Stolf, F. (2024)  Invited Discussion of ‘Sparse Bayesian factor analysis when the number of factors is unknown’ by Frühwirth-Schnatter S., Hosszejni D., and Freitas Lopes H., <i>Bayesian Analysis</i> doi: https://doi.org/10.1214/24-BA1423.</font>
 
 <a class="typeA" href="https://lorenzo-schiavon.github.io/publications/Discussion_marked_point_processes" style="color:rgb(103,108,112)"><b>Contribution to the Discussion of ‘Flexible marked spatio-temporal point processes with applications to event sequences from association football’</b></a> <br> <font style="font-size:15px">in: <i>Journal of the Royal Statistical Society - C</i>, 2023.<br></font><font style="font-size:17px">Stival, M., Schiavon, L. (2023) Mattia Stival and Lorenzo Schiavon’s contribution to the Discussion of ‘Flexible marked spatio-temporal point processes with applications to event sequences from association football’ by Narayanan, Kosmidis and Dellaportas, <i>Journal of the Royal Statistical Society Series C</i>, 72 (5), 1132--1133. doi: https://doi.org/10.1093/jrsssc/qlad068.</font>
 
 
-<b style="font-size:20px"> Conference Proceedings </b> 
+<b style="font-size:22px"> Conference Proceedings </b> 
 
 <a class="typeA" href="https://lorenzo-schiavon.github.io/publications/PASSI_variational" style="color:rgb(103,108,112)"><b>Efficient posterior inference for spatiotemporal modelling of repeated cross-sectional data.</b></a> <br> <font style="font-size:15px">in: <i>Methodological and Applied Statistics and Demography II - SIS 2024, Short Papers, Solicited Sessions</i>, 2025.<br></font><font style="font-size:17px">
 Schiavon, L., Stival, M. (2025). Efficient posterior inference for spatiotemporal modelling of repeated cross-sectional data, <i>Methodological and Applied Statistics and Demography II - SIS 2024, Short Papers, Solicited Sessions</i> (Editors:  Pollice, A., Mariani, P.), ISBN e-book: 9783031643507.</font>
