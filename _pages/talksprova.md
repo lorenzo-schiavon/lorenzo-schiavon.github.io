@@ -14,7 +14,7 @@ Invited lecture joint with Mattia Stival, Health Data Science, MS in Data Analyt
 Invited seminar, Department of Environmental Sciences, Informatics and Statistics, Ca’ Foscari University of Venice, Venice.
 
 
-<b style="font-size:20px"> Invited and solicited presentations </b>
+<b style="font-size:22px;color:rgb(103,108,112)"> Invited and solicited presentations </b>
 
 **Bayesian multi-resolution clustering via infinite latent factors** <br> <font size="3">December 13, 2025<br>
 Invited presentation, CMStatistics 2025, London.
@@ -36,7 +36,7 @@ Invited presentation, CLADAG 2023, Salerno.
 Invited presentation, CMStatistics 2022, London.
 
 
-<b style="font-size:20px"> Contributed presentations </b>
+<b style="font-size:22px;color:rgb(103,108,112)"> Contributed presentations </b>
 
 **Communicating complex statistical models to a public health audience: translating science into action with FARSI approach** <br> <font size="3">October 31, 2025<br> Contributed presentation,  Second General Meeting Age-it, Napoli.
 
