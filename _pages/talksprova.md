@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---  
 
-<b style="font-size:20px"> Seminars and Invited lectures </b>
+<b style="font-size:22px;color:rgb(103,108,112)"> Seminars and Invited lectures </b>
 
 **From Priors to Policy: Bayesian Hierarchical Models and Communication in Public Health** <br> <font size="3">May 7, 2025<br>
 Invited lecture joint with Mattia Stival, Health Data Science, MS in Data Analytics for Business and Society, Ca’ Foscari University of Venice, Venice.
