@@ -46,7 +46,7 @@ redirect_from:
 
 <b style="font-size:18px">Teaching experience</b>
 <ul style="list-style-type:circle;">
-   <li>2026: Statistical Learning. Master's degree in Data Science, University of Padova. </li>
+   <li>2026: Statistical Learning - Module B. Master's degree in Data Science, University of Padova. </li>
    <li>2026: Statistics and Quantitative Biology I - Module Statistics. Bachelor's degree in Biology, University of Padova. </li>
    <li>2025: Statistics II - Practice. Bachelor's degree in Economics and Commerce, Ca’ Foscari University of Venice. </li>
    <li>2024: Advanced Econometrics - Module V: Factor Models. PhD in Economics, Ca’ Foscari University of Venice. </li>
